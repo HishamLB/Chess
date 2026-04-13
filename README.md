@@ -15,6 +15,8 @@ Kwazam Chess is a Java Swing board game inspired by chess, but with its own set 
   - **Xor** and **Tor** transform into each other every 2 turns
 - Built with **Java Swing** and **AWT**
 
+!(image)[./images/image1.png]
+
 ## How it works
 The project is built around a simple MVC-style structure:
 - **Model** handles game state and turn tracking
